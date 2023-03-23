@@ -1,0 +1,54 @@
+.Assignstyle__TableStyleDiv-sc-1qhz6kh-1{
+    margin: 0 !important;
+}
+
+.container{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 200px;
+    margin-top: 5%;
+    padding: 0;
+    width: 1000px;
+}
+
+.recharts-wrapper{
+    width: 100% !important;
+    display: flex;
+    justify-content: center;
+}
+
+.recharts-legend-wrapper{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    left: 0px;
+}
+
+.sc-eDvSVe{
+    position: absolute;
+    right: 3px;
+    top: 15px;
+}
+
+
+body{
+    background-color: #ffffff;
+    opacity: 0.8;
+    background-image:  radial-gradient(#85869d 0.5px, transparent 0.5px), radial-gradient(#85869d 0.5px, #ffffff 0.5px);
+    background-size: 20px 20px;
+    background-position: 0 0,10px 10px;}
+
+.Adminstyle__ButtonStyle-sc-m8qav7-3{
+    margin-top: 8px;
+}
+
+.recharts-wrapper{
+    margin-top: 62px !important;
+}
+
+.calendar-container {
+display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
